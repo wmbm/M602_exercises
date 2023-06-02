@@ -1,5 +1,5 @@
 # Python programming further exercises
-Some further, more advanced Python exercises to practice additional aspects of Python programming, including decorators, generators and web scraping. Please note, these are purely supplementary and do no contribute to your overall grade. 
+Some further, more advanced Python exercises to practice additional aspects of Python programming, including decorators, generators and web scraping. *Please note, these are purely supplementary and do no contribute to your overall grade.*
 
 **Exercise 1**: Prime Number Generator - Write a generator function called prime_generator that generates prime numbers. The generator should yield the next prime number each time it is called. Use the Sieve of Eratosthenes algorithm to efficiently generate prime numbers.
 
