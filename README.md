@@ -1,5 +1,5 @@
-# M602_exercises
-Here are exercises following the M602 course at GISMA Computer Programming introductory course.
+# Computer programming M602
+Here are exercises following the M602 (Computer programming) course at GISMA University.
 
 **Class exercises** - Contains solutions to the in-class exercises 
 
